@@ -1,0 +1,13 @@
+{
+    "name": "app",
+    "displayName": "Issues",
+    "blocks": [
+        {
+            "widget": "welcome.html",
+            "cols": 12,
+            "params": {
+                "path": "packages/gitsense-issues/msg.html"
+            }
+        }
+    ] 
+}
